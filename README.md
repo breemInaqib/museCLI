@@ -26,3 +26,8 @@ v0.1 scaffold – under active, public development
 
 see [LICENSE](LICENSE) for terms.  
 want to contribute? open an issue or pull request.
+
+## additional documentation
+
+- [LOCAL-OSS-DEPLOY](LOCAL-OSS-DEPLOY.md): gpt-oss-20b local deployment guide
+  
